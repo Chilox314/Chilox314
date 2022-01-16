@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chilox314, Christian.
+- 👋 Hi, I’m  Christian.
 - 👀 I’m interested in Science, Space, Computer Games and probably allmost every nerdy thing.
 - 🌱 I’m currently learning web developement on theodinproject.com. I’m hoping to find some help on my future problems! ^^
 
